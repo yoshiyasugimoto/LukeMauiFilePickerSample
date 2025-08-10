@@ -1,0 +1,122 @@
+# .NET MAUI specific
+bin/
+obj/
+*.user
+*.suo
+*.cache
+Thumbs.db
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.userprefs
+*.pidb
+*.booproj
+*~
+*.swp
+*.DS_Store
+
+# Xamarin Studio
+*.userprefs
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# DNX
+project.lock.json
+artifacts/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Android specific
+[Gg]enerated/
+
+# iOS specific
+iOSInjectionProject/
+
+# Windows specific
+*.appx
+*.appxbundle
+*.appxupload
+
+# MAUI Specific
+Platforms/Android/Resources/values/Strings.xml
